@@ -11,6 +11,21 @@ This is a beginner-friendly Django project implementing a complete **User Authen
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 📝 Sign Up Page
+![Sign Up Page](screenshots/signup.png)
+
+### 🏠 Home Page (After Login)
+![Home Page](screenshots/home.png)
+
+---
+
 ## 🚀 Features
 
 - Built using Django's built-in `auth` system
