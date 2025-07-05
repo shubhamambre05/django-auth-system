@@ -1,0 +1,38 @@
+# Django User Authentication System 🔐
+
+This is a beginner-friendly Django project implementing a complete **User Authentication System** with:
+
+✅ Sign Up (Registration)  
+✅ Login  
+✅ Logout  
+✅ Password Reset (via Email)  
+✅ Session and Message Framework  
+✅ Bootstrap Integration
+
+---
+
+## 🚀 Features
+
+- Built using Django's built-in `auth` system
+- User session management (`login`, `logout`)
+- Django `messages` framework for real-time feedback
+- Password reset functionality using Django email backend (console for development)
+- Fully functional frontend using Bootstrap 5
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Django
+- HTML + Bootstrap 5
+- SQLite (default)
+
+---
+
+## 📁 Project Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/django-auth-system.git
+   cd django-auth-system
