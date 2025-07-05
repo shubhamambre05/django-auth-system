@@ -11,8 +11,6 @@ This is a beginner-friendly Django project implementing a complete **User Authen
 
 ---
 
----
-
 ## 📸 Screenshots
 
 ### 🔐 Login Page
