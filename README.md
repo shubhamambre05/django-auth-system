@@ -34,5 +34,5 @@ This is a beginner-friendly Django project implementing a complete **User Authen
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/django-auth-system.git
+   git clone https://github.com/shubhamambre05/django-auth-system.git
    cd django-auth-system
