@@ -1,4 +1,8 @@
-accounts
-auth_system
+venv/
+__pycache__/
+*.pyc
 db.sqlite3
-manage.py
+.env
+*.log
+*.idea/
+*.vscode/
