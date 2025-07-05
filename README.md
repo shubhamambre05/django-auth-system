@@ -14,7 +14,7 @@ This is a beginner-friendly Django project implementing a complete **User Authen
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](C:\Users\Acer\Pictures\Screenshots\Screenshot 2025-07-05 175152.png)
 
 ### 📝 Sign Up Page
 ![Sign Up Page](screenshots/signup.png)
